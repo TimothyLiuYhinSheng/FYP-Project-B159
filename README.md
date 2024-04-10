@@ -15,6 +15,9 @@ There are multiple testing scripts (for future development)
 3. Movement
 4. Camsize (Testing Script)
 
+Video of Working model can be found here:
+https://www.youtube.com/watch?v=ZkObqneRZOo
+
 # 1 Introduction
 
 TCP-IP-4Axis-Python is a software development kit designed for dobot company's Python package based on TCP/IP protocol. It is developed based on Python language, follows the dobot-TCP-IP control communication protocol, connects to the machine terminal through Tcp socket, and provides users with an easy-to-use API interface. Through TCP-IP-4Axis-Python, users can quickly connect to the dobot machine and conduct secondary development to control and use the machine.
